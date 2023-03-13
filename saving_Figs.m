@@ -1,0 +1,2 @@
+savefigures
+savefigures('outputFormat','-deps')
